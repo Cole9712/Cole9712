@@ -2,7 +2,7 @@
 Thanks for stopping by.
 
 - 🧠Languages I know: Python, TypeScript / JavaScript, Java, C++, Go, SQL, HTML & CSS
-- I’m currently working on my Master degree, with seeking for Summer 2023 co-op opportunities
+- I’m currently working on my Master degree, while seeking for Summer 2023 co-op opportunities
 - 📫 [My website](https://colewu.tech/)
 
 
